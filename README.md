@@ -1,7 +1,5 @@
 # Christopher Maglio
 
-Aerospace engineer, Las Vegas. I run independent AI research and publish it here as dated white papers, with the code and protocols they describe.
-
 ## Research
 
 **Multi-agent systems.** Can two complete, independent AIs collaborate through a narrow channel, with no shared infrastructure? [AI Relay](https://github.com/christophermaglio/AI_Relay) is a hardware relay (Arduino Nano ESP32-S3 + SuperDMZ tunnel) that lets sandboxed models exchange data under a formal protocol. The [Interpreted Harness](https://github.com/christophermaglio/Interpreted_Harness) paper argues that what emerged from those experiments is a distinct class of harness: a natural-language protocol interpreted by two complete AIs. It does not craft better prompts — it makes precision prompting unnecessary, because two independent readings of a flawed goal get reconciled into a better result than the prompt deserved.
